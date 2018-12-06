@@ -1,0 +1,41 @@
+{
+  "Debts" : [
+    {
+      "id": "001",
+      "name": "Clientes paginas web",
+      "items": [
+        {
+          "name": "Consultor",
+          "total": 300,
+          "unitPrice": 300,
+          "quantity": 1
+        } 
+      ],
+      "references":[
+        {
+          "name": "Teléfono", 
+          "value": "614 240 22 51"
+        }
+      ]
+    },
+    {
+      "id": "002",
+      "name": "Clientes paginas web",
+      "items": [
+        {
+          "name": "Consultor",
+          "total": 300,
+          "unitPrice": 300,
+          "quantity": 1
+        } 
+      ],
+      "references":[
+        {
+          "name": "Teléfono", 
+          "value": "614 241 22 51"
+        }
+      ]
+    }  
+  ]  
+  
+}
