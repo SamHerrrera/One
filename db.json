@@ -15,6 +15,10 @@
         {
           "name": "Teléfono", 
           "value": "614 240 22 51"
+        },
+        {
+          "name": "Nombre", 
+          "value": "Luis Ramirez"
         }
       ]
     },
@@ -33,6 +37,10 @@
         {
           "name": "Teléfono", 
           "value": "614 241 22 51"
+        },
+        {
+          "name": "Nombre", 
+          "value": "Enrique Ramirez"
         }
       ]
     },
@@ -49,6 +57,10 @@
       ],
       "references":[
         {
+          "name": "Teléfono", 
+          "value": "614 241 22 51"
+        }
+        ,{
           "name": "Nombre", 
           "value": "Samuel Herrera"
         }
