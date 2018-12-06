@@ -1,6 +1,28 @@
 {
   "Debts" : [
     {
+      "id": "535",
+      "name": "Clientes paginas web",
+      "items": [
+        {
+          "name": "Consultor",
+          "total": 600,
+          "unitPrice": 300,
+          "quantity": 2
+        } 
+      ],
+      "references":[
+        {
+          "name": "Teléfono", 
+          "value": "614 240 22 51"
+        },
+        {
+          "name": "Nombre", 
+          "value": "Luis Ruiz"
+        }
+      ]
+    },
+    {
       "id": "001",
       "name": "Clientes paginas web",
       "items": [
