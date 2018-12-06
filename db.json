@@ -35,7 +35,25 @@
           "value": "614 241 22 51"
         }
       ]
-    }  
+    },
+    {
+      "id": "003",
+      "name": "Clientes paginas web",
+      "items": [
+        {
+          "name": "Consultor",
+          "total": 10000,
+          "unitPrice": 1000,
+          "quantity": 10
+        } 
+      ],
+      "references":[
+        {
+          "name": "Nombre", 
+          "value": "Samuel Herrera"
+        }
+      ]
+    }    
   ]  
   
 }
